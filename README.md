@@ -2,6 +2,7 @@
 This project is a simple and functional To-Do List app to easily track and organize daily to-do items.
 
 # 🔧 Features:
+- Add a note by pressing the Add button and the Enter key
 - Add Note: You can add a new task.
 - Draw Task: You can mark a note you added as completed by drawing a line on it with a single click.
 - Delete Task: You can delete a single note with a double click.
