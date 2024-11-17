@@ -1,4 +1,4 @@
-# 📋 To-Do List
+# 📋 Simple To Do List
 This project is a simple and functional To-Do List app to easily track and organize daily to-do items.
 
 # 🔧 Features:
